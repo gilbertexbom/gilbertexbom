@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gilbertexbom
+- 👋 Hi, I’m Gilberto Braga
 - 👀 I’m interested in Economics, Development Systems, Database, learn and teach, Java, R, Python and SQL...
-- 🌱 I’m currently learning cloud.
+- 🌱 I’m currently learning and teaching cloud computing.
 - 💞️ I’m looking to collaborate on Java, Python, PHP projects.
-- 📫 How to reach me send me a message.
+- 📫 You can reach me sending me a message.
 
 <!---
 gilbertexbom/gilbertexbom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
